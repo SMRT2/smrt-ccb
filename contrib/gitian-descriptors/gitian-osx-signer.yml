@@ -7,7 +7,7 @@ architectures:
 packages:
 - "faketime"
 remotes:
-- "url": "https://github.com/smrt-project/smrt-detached-sigs.git"
+- "url": "https://github.com/SMRT2/smrt-detached-sigs.git"
   "dir": "signature"
 files:
 - "smrt-osx-unsigned.tar.gz"
